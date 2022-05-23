@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/solidogen/basarat-ts-book/issues"
   },
-  "homepage": "https://github.com/solidogen/basarat-ts-book#readme"
+  "homepage": "https://github.com/solidogen/basarat-ts-book#readme",
+  "dependencies": {
+    "typescript": "^4.8.0-dev.20220523"
+  }
 }
